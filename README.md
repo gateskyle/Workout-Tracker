@@ -7,7 +7,7 @@
 ## Description
 
 
-### This webpage lets you create and manage your fitness routines
+### This webpage lets you create and view stats of your fitness routines
 
 ____________________________________________
 
@@ -29,13 +29,13 @@ ____________________________________________
 
 ### Installation
  
-No need to install, follow this <a href ="https://vast-escarpment-60216.herokuapp.com/?id=6053e5da3b46db0015733c2d">link</a> <br>
+No need to install, follow this <a href ="https://vast-escarpment-60216.herokuapp.com/?id=6053e5da3b46db0015733c2d">link</a> to the webpage <br>
  
 ____________________________________________
 
 ### Usage
  
-Follow the link and create a new workout routine <br>
+Follow the link and click on the "New Workout" or "Continue Workout" buttons, select a type of workout fro mthe dropdown, and follow the prompts given <br>
 
 Or watch this instructional video of the webpage: <a href="https://drive.google.com/file/d/1Qiz8BKYgAPH7GB1Ge3loFKpq6TomzNTG/view?usp=sharing">video</a>
 
