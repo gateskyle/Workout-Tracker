@@ -35,7 +35,7 @@ ____________________________________________
 
 ### Usage
  
-Follow the link and click on the "New Workout" or "Continue Workout" buttons, select a type of workout fro mthe dropdown, and follow the prompts given <br>
+Follow the link and click on the "New Workout" or "Continue Workout" buttons, select a type of workout from the dropdown, and follow the prompts given <br>
 
 Or watch this instructional video of the webpage: <a href="https://drive.google.com/file/d/1Qiz8BKYgAPH7GB1Ge3loFKpq6TomzNTG/view?usp=sharing">video</a>
 
