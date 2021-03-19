@@ -19,7 +19,7 @@ ____________________________________________
 
 3. [Contributing](#contributing)
 
-4. [Tests](#tests)
+4. [Tests/Picutres](#tests/picutres)
 
 5. [Questions](#questions)
 
@@ -29,7 +29,7 @@ ____________________________________________
 
 ### Installation
  
-No need to install, follow this <a href ="">link</a> <br>
+No need to install, follow this <a href ="https://vast-escarpment-60216.herokuapp.com/?id=6053e5da3b46db0015733c2d">link</a> <br>
  
 ____________________________________________
 
@@ -37,7 +37,7 @@ ____________________________________________
  
 Follow the link and create a new workout routine <br>
 
-Or watch this instructional video of the webpage
+Or watch this instructional video of the webpage: <a href="https://drive.google.com/file/d/1Qiz8BKYgAPH7GB1Ge3loFKpq6TomzNTG/view?usp=sharing">video</a>
 
 ____________________________________________
  
@@ -47,9 +47,17 @@ N/A <br>
 
 ____________________________________________
  
-### Tests
+### Tests/Picutres
  
-Picture <br>
+Main page of the website: ![screencapture-vast-escarpment-60216-herokuapp-2021-03-18-16_51_04](https://user-images.githubusercontent.com/70537665/111712197-5f9b5d00-880a-11eb-8271-ad4266ad0ded.png) <br>
+
+Adding resistence exercise page: ![screencapture-vast-escarpment-60216-herokuapp-exercise-2021-03-18-16_51_28](https://user-images.githubusercontent.com/70537665/111712274-85286680-880a-11eb-8a93-0c8bb9e28b20.png) <br>
+
+Adding cardio exercise page: 
+![screencapture-vast-escarpment-60216-herokuapp-exercise-2021-03-18-16_51_46](https://user-images.githubusercontent.com/70537665/111712321-9ec9ae00-880a-11eb-9cb3-2e38232a0c31.png) <br>
+
+Workout dashboard page: 
+![screencapture-vast-escarpment-60216-herokuapp-stats-2021-03-18-16_51_54](https://user-images.githubusercontent.com/70537665/111712345-adb06080-880a-11eb-87be-0dd3e99ef51e.png)
 
 ____________________________________________
  
